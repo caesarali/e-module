@@ -1,0 +1,40 @@
+#sidebar .panel-title {
+	padding: 10px 0;
+	text-align: center;
+}
+
+#sidebar .profile-pict {
+	margin-top: 10px;
+}
+
+.breadcrumb {
+	background-color: #fff;
+}
+
+.breadcrumb .active {
+	font-weight: bold;
+}
+
+.clear-mb {
+	margin-bottom: 0;
+}
+
+.no-mt {
+	margin-top: 0;
+}
+
+.mt-1 {
+	margin-top: 10px;
+}
+
+.mb-2 {
+	margin-bottom: 20px;
+}
+
+.mb-4 {
+	margin-bottom: 40px;
+}
+
+.clear-p {
+	padding: 0;
+}
